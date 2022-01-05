@@ -4,3 +4,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - my first commit
 - second commit
+- and this is another commit
